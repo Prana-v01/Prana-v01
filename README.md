@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Studying
 - 🌱 I’m currently learning ... Python,c++
 - 💞️ I’m looking to collaborate on ...Everything really.
-- 📫 How to reach me ... My discord is Elon#3870
+- 📫 How to reach me ... My discord is InLoveWithLearning#0654
 
 <!---
 Prana-v01/Prana-v01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
